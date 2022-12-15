@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAD Final Project</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+
+    <string name="error_password">Invalid Password. Please Retry</string>
+    <string name="error_login">Invalid Login. Please Retry</string>
+    <string name="success">Login Successful</string>
+    <string name="scrollText">test test test</string>
+</resources>
